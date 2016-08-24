@@ -1,11 +1,7 @@
 Test
 ===
 
- 
 
- 
-
----
 
 # Features
 
@@ -15,6 +11,4 @@ Test
 - Slide  
 - Supports 
 - Export  
-
----
 
